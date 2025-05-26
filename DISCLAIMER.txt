@@ -23,7 +23,7 @@ Disclaimer/Exención de Responsabilidad - Sistema MiSuperPOSX (Licencia MIT)
  facturación electrónica, de emisión de boletas o facturas, y de protección de datos personales.
 
  LICENCIA MIT
- Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este Software y de MiSuperPossX
+ Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este Software y 
  los archivos de documentación asociados (el "Software"), para tratar el Software sin restricción, incluyendo
  sin limitación los derechos para usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender
  copias del Software, y permitir a las personas a quienes se les proporcione el Software a hacer lo mismo,
