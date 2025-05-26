@@ -8,9 +8,9 @@ namespace WinFormsApp1.Modelo
 {
     public class ModelUser
     {
-        public string Codigo { get; set; }
-        public string Pin { get; set; }
-        public string Name { get; set; }
-        public string Funcion { get; set; }
+        public int pin { get; set; }
+        public string name { get; set; }
+        public int function { get; set; }
+        public bool active { get; set; }
     }
 }
