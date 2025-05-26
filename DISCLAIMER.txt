@@ -1,0 +1,32 @@
+Terminos y condiciones de uso - Sistema MiSuperPOSX (Licencia MIT)
+
+ EXENCIÓN DE RESPONSABILIDAD
+
+ EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+ IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD
+ PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O
+ TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES POR NINGUNA RECLAMACIÓN,
+ DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO
+ TIPO, DERIVADA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL
+ SOFTWARE.
+
+ SIN RESPALDO OFICIAL
+ El Software no cuenta con certificación, validación, autorización ni respaldo oficial por parte del Servicio de
+ Impuestos Internos (SII) ni de ninguna otra autoridad fiscal o tributaria, nacional o internacional. Su uso es
+ bajo exclusiva responsabilidad del usuario, quien debe asegurarse de que su implementación cumpla con los
+ requisitos legales y técnicos exigidos por las autoridades correspondientes en su jurisdicción.
+
+ RESPONSABILIDAD DEL USUARIO
+ El usuario asume toda la responsabilidad y riesgo por el uso del Software. Es responsabilidad exclusiva del
+ usuario garantizar que el Software sea adecuado para sus necesidades y que su utilización cumpla con las
+ leyes, reglamentos o normas técnicas aplicables, incluyendo pero no limitado a, normativas fiscales, de
+ facturación electrónica, de emisión de boletas o facturas, y de protección de datos personales.
+
+ LICENCIA MIT
+ Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este Software y de MiSuperPossX
+ los archivos de documentación asociados (el "Software"), para tratar el Software sin restricción, incluyendo
+ sin limitación los derechos para usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender
+ copias del Software, y permitir a las personas a quienes se les proporcione el Software a hacer lo mismo,
+ sujeto a las siguientes condiciones:
+ El aviso de copyright y este aviso de permiso deberán incluirse en todas las copias o partes sustanciales del
+ Software.
